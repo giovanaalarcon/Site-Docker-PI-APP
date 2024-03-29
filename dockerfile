@@ -1,4 +1,4 @@
-# Imagem base do servidor web, o Apache
+# Imagem base do servidor web, o NGINX com React
 FROM nginx:alpine
 
 # Copia o arquivo index.html para o diretório padrão do servidor web
