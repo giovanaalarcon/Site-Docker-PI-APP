@@ -7,5 +7,5 @@ Consiste em um site com servidor ativo pelo Docker.
 Comandos:
 
 Necessario colocar em uma pasta
-- docker build -t <nomedapasta> . 
-- docker run -d -p 8080:80 --name <nomedocontainer> <nomedapasta>
+- docker build -t <<nomedapasta>> . 
+- docker run -d -p 8080:80 --name <<nomedocontainer>> <<nomedapasta>>
