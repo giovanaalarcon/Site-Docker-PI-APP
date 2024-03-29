@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 180px;
+    color: #08378B;
+    margin-top: 5px; /* Reduzindo a margem superior do h1 para 5px */
+}
+
+p {
+    font-size: 21px;
+    color: #131313;
+    margin-top: -140px; /* Removendo a margem superior do p */
+}
+
+h2 {
+    font-size: 20px;
+    color: #000000;
+}
+
+.footer {
+    background-color: #DADDFF;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
